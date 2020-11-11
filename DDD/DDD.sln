@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{D58A2F88-CB0C-4457-BB0A-169AD5FDF620}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{06E7D76F-6773-41BD-A398-F04AB9BBDA98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{52CE863C-A6D7-4669-86C5-DACA790B1614}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{2788682F-28E6-4294-8F07-99E855DEB9CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{D0A7190A-EB05-481E-92E2-D54470E9AC7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{2C71B300-2453-4A63-AF39-325A49781FAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Cross Cutting", "4.2 - Cross Cutting", "{A74D8F13-0EA8-4253-AF97-341534642079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.MVC", "ProjetoModeloDDD.MVC\ProjetoModeloDDD.MVC.csproj", "{A1B137F2-612E-4B5E-889F-395BBB5FA450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B137F2-612E-4B5E-889F-395BBB5FA450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B137F2-612E-4B5E-889F-395BBB5FA450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B137F2-612E-4B5E-889F-395BBB5FA450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B137F2-612E-4B5E-889F-395BBB5FA450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C71B300-2453-4A63-AF39-325A49781FAD} = {D0A7190A-EB05-481E-92E2-D54470E9AC7B}
+		{A74D8F13-0EA8-4253-AF97-341534642079} = {D0A7190A-EB05-481E-92E2-D54470E9AC7B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {155C85FA-D184-49C1-9D5C-01308804DD19}
+	EndGlobalSection
+EndGlobal
