@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/nUFOD1rMnONZ7j3QLzqkBDg3Qel+ABRnCTkOc0cp0328HVSPV4amUbCPL6qt0yqjihjVV3VmZp/mfWj0LJ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Documents\\Curso Domain Driven Design\\DDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
